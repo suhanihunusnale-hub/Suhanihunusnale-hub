@@ -64,11 +64,13 @@ I'm interested in Python development, Artificial Intelligence, Machine Learning 
 
 
 ## 📊 GitHub Statistics
-## 📊 GitHub Statistics
 
-\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=suhanihunusnale-hub&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=suhanihunusnale-hub\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="165"/>   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=suhanihunusnale-hub&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=suhanihunusnale-hub\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165"/> \</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhanihunusnale-hub&show_icons=true&theme=tokyonight&hide_border=true)
 
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=suhanihunusnale-hub&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=suhanihunusnale-hub\&theme=tokyonight\&hide_border=true)" height="165"/> \</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhanihunusnale-hub&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=suhanihunusnale-hub&theme=tokyonight&hide_border=true)
+
 
 ## 🤝 Connect With Me
 
